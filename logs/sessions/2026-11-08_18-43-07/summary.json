@@ -1,0 +1,37 @@
+{
+    "start":  "2026-11-08T18:43:07",
+    "end":  "2026-11-08T18:58:15",
+    "minutes":  15.1,
+    "exit_code":  -1073741819,
+    "relaunches":  0,
+    "mods_at_launch":  675,
+    "mods_at_exit":  675,
+    "mods_loaded":  675,
+    "mods_outside_pack":  0,
+    "mods_list_rewritten":  false,
+    "samples":  179,
+    "peak_private_mb":  10402,
+    "min_free_ram_mb":  171,
+    "crashed":  true,
+    "crash_source":  "dust_report",
+    "crash_time":  "2026-11-08T18:58:14",
+    "crash_module":  null,
+    "crash_exception_code":  "0xc0000005",
+    "crash_fault_offset":  null,
+    "crash_info":  "rapport Dust | 0xc0000005 | 000000010CE15460",
+    "hung":  false,
+    "hang_time":  null,
+    "wer_dumps":  [
+
+                  ],
+    "kenshi_crash_zips":  [
+
+                          ],
+    "wer_reports":  [
+
+                    ],
+    "dust_reports":  [
+                         "DustCrash_2026-11-08_17-58-14-180_24796.zip"
+                     ],
+    "last_exit_in_save_log":  "18:58:14"
+}

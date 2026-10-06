@@ -1,0 +1,30 @@
+{
+    "start":  "2026-10-06T21:09:38",
+    "end":  "2026-10-06T21:31:35",
+    "minutes":  21.9,
+    "exit_code":  null,
+    "mods_at_launch":  677,
+    "mods_at_exit":  677,
+    "mods_loaded":  677,
+    "mods_outside_pack":  0,
+    "mods_list_rewritten":  false,
+    "samples":  259,
+    "peak_private_mb":  8134,
+    "min_free_ram_mb":  58,
+    "crashed":  true,
+    "crash_time":  "2026-10-06T21:31:31",
+    "crash_module":  "kenshi_x64.exe",
+    "crash_exception_code":  "0xc0000005",
+    "crash_fault_offset":  "0xf44ae3",
+    "crash_info":  "kenshi_x64.exe 0.0.0.0 | 0xc0000005 | 0xf44ae3",
+    "wer_dumps":  [
+                      "kenshi_x64.exe.24036.dmp"
+                  ],
+    "kenshi_crash_zips":  [
+
+                          ],
+    "wer_reports":  [
+                        "AppCrash_kenshi_x64.exe_49b6a5bac583a7798e932fb5fa50a3d5d25c5e8_455190e8_341b9f38-1ccb-4b27-989f-f13473152658"
+                    ],
+    "last_exit_in_save_log":  "21:31:30"
+}

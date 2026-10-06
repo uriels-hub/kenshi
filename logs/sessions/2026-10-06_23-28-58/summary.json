@@ -1,0 +1,31 @@
+{
+    "start":  "2026-10-06T23:28:58",
+    "end":  "2026-10-06T23:32:16",
+    "minutes":  3.3,
+    "exit_code":  1,
+    "relaunches":  0,
+    "mods_at_launch":  676,
+    "mods_at_exit":  676,
+    "mods_loaded":  676,
+    "mods_outside_pack":  0,
+    "mods_list_rewritten":  false,
+    "samples":  35,
+    "peak_private_mb":  8566,
+    "min_free_ram_mb":  573,
+    "crashed":  false,
+    "crash_time":  null,
+    "crash_module":  null,
+    "crash_exception_code":  null,
+    "crash_fault_offset":  null,
+    "crash_info":  null,
+    "wer_dumps":  [
+
+                  ],
+    "kenshi_crash_zips":  [
+
+                          ],
+    "wer_reports":  [
+
+                    ],
+    "last_exit_in_save_log":  null
+}

@@ -1,0 +1,37 @@
+{
+    "start":  "2026-11-08T17:33:52",
+    "end":  "2026-11-08T17:47:37",
+    "minutes":  13.7,
+    "exit_code":  -1073740940,
+    "relaunches":  1,
+    "mods_at_launch":  675,
+    "mods_at_exit":  675,
+    "mods_loaded":  675,
+    "mods_outside_pack":  0,
+    "mods_list_rewritten":  false,
+    "samples":  162,
+    "peak_private_mb":  10221,
+    "min_free_ram_mb":  134,
+    "crashed":  true,
+    "crash_source":  "exit_code",
+    "crash_time":  null,
+    "crash_module":  null,
+    "crash_exception_code":  "0xc0000374",
+    "crash_fault_offset":  null,
+    "crash_info":  "code de sortie 0xc0000374",
+    "hung":  false,
+    "hang_time":  null,
+    "wer_dumps":  [
+
+                  ],
+    "kenshi_crash_zips":  [
+                              "crashDump1.0.65_x64.zip"
+                          ],
+    "wer_reports":  [
+
+                    ],
+    "dust_reports":  [
+
+                     ],
+    "last_exit_in_save_log":  "17:47:29"
+}

@@ -1,0 +1,37 @@
+{
+    "start":  "2026-10-22T20:19:06",
+    "end":  "2026-10-22T20:45:36",
+    "minutes":  26.5,
+    "exit_code":  -1073740771,
+    "relaunches":  1,
+    "mods_at_launch":  674,
+    "mods_at_exit":  674,
+    "mods_loaded":  674,
+    "mods_outside_pack":  0,
+    "mods_list_rewritten":  false,
+    "samples":  313,
+    "peak_private_mb":  9273,
+    "min_free_ram_mb":  627,
+    "crashed":  true,
+    "crash_source":  "exit_code",
+    "crash_time":  null,
+    "crash_module":  null,
+    "crash_exception_code":  "0xc000041d",
+    "crash_fault_offset":  null,
+    "crash_info":  "code de sortie 0xc000041d",
+    "hung":  false,
+    "hang_time":  null,
+    "wer_dumps":  [
+
+                  ],
+    "kenshi_crash_zips":  [
+
+                          ],
+    "wer_reports":  [
+
+                    ],
+    "dust_reports":  [
+
+                     ],
+    "last_exit_in_save_log":  "20:45:34"
+}
