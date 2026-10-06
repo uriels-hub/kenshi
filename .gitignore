@@ -1,0 +1,21 @@
+# Jamais publiés : dumps (instantané de la mémoire du jeu) et sauvegardes
+*.dmp
+*.hdmp
+*.mdmp
+save/
+saves/
+
+# Jamais publiés, où qu'ils soient (kenshi-monitor.ps1 accepte n'importe quel -OutDir) :
+# archives de plantage de Kenshi, dossiers de rapport WER (AppCrash_kenshi_x64* et
+# AppHang_kenshi_x64*, avec Report.wer et leurs .dmp), journaux bruts (volumineux,
+# save.log contient des chemins sous C:\Users\<nom>) et verrou du moniteur.
+crashDump*.zip
+AppCrash_*/
+AppHang_*/
+*.wer
+*.log
+RE_Kenshi_log.txt
+monitor.lock
+
+# Sauvegardes locales créées par les outils
+*.bak

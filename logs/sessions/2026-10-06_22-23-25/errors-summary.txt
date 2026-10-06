@@ -1,0 +1,92 @@
+Journal : %USERPROFILE%\Documents\kenshi\logs\sessions\2026-10-06_22-23-25\kenshi_info.log
+Mods chargés : 677
+Mods chargés hors liste du dépôt : 0
+Mods du pack non chargés : 0
+Erreurs : 24 ; avertissements : 24767 (dont 24482 'Part map', cosmétiques)
+
+== Messages hors Part map, par fréquence (nombres remplacés par #) ==
+     43  [warning] [Mods] Item DIALOG_ACTION (#-rebirth.mod) modified by Universal Wasteland Expansion does not exist
+     26  [warning] [Mods] Item DIALOG_ACTION (#-__Fixes.mod) modified by Universal Wasteland Expansion does not exist
+     14  [warning] [Mods] Item DIALOG_ACTION (#-__world reactios swamp.mod) modified by Universal Wasteland Expansion does not exist
+     13  [warning] [Mods] Item DIALOG_ACTION (#-__November#.mod) modified by Universal Wasteland Expansion does not exist
+     13  [warning] [Mods] Item DIALOGUE_LINE (#-Dialogue.mod) modified by Universal Wasteland Expansion does not exist
+     11  [warning] [ResourceLoader::loadTextureUnit] Texture '#_Metalness_HI.dds' is missing.
+     10  [warning] [Mods] Item DIALOG_ACTION (#-Dialogue.mod) modified by Universal Wasteland Expansion does not exist
+     10  [warning] [Mods] Item DIALOG_ACTION (#-october #.mod) modified by Universal Wasteland Expansion does not exist
+     10  [warning] [Mods] Item DIALOG_ACTION# (#-dialogue-#.mod) modified by Universal Wasteland Expansion does not exist
+     10  [warning] [Mods] Item DIALOG_ACTION# (#-gamedata.base) modified by Universal Wasteland Expansion does not exist
+      9  [warning] [Mods] Item DIALOG_ACTION (#-gamedata.base) modified by Social lives (United Cities) ENG does not exist
+      9  [warning] [ResourceLoader::loadTextureUnit] Texture 'water.dds' is missing.
+      8  [warning] [Mods] Item DIALOG_ACTION (#-__world reactions NE.mod) modified by Universal Wasteland Expansion does not exist
+      6  [warning] [Mods] Item DIALOG_ACTION (#-__october # #.mod) modified by Universal Wasteland Expansion does not exist
+      6  [warning] [Mods] Item DIALOG_ACTION (#-gamedata.base) modified by cats clothing overhaul does not exist
+      6  [warning] [Mods] Item DIALOGUE_LINE (#-Dialogue.mod) modified by Kaizo does not exist
+      5  [warning] [Mods] Item DIALOG_ACTION (#-__september#.mod) modified by Universal Wasteland Expansion does not exist
+      5  [error] Ancient Adventurer: no faction for homeless squad
+      4  [warning] [Mods] Item DIALOG_ACTION (#-__June #.mod) modified by Universal Wasteland Expansion does not exist
+      4  [warning] [Mods] Item DIALOG_ACTION (#-__May #.mod) modified by Universal Wasteland Expansion does not exist
+      4  [warning] [Mods] Item DIALOG_ACTION (#-__Southern hive.mod) modified by Social lives (Hive) ENG does not exist
+      4  [warning] [Mods] Item DIALOG_ACTION (#-__Southern hive.mod) modified by Universal Wasteland Expansion does not exist
+      4  [error] Loaded mesh doesn't exist: .\mods\Children\character\mesh\femaleMesh.mesh
+      4  [error] Loaded mesh doesn't exist: .\mods\Children\character\mesh\maleMesh.mesh
+      3  [warning] [Mods] Item DIALOG_ACTION (#-__december#.mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item DIALOG_ACTION (#-__March #.mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item DIALOG_ACTION (#-__world reactions Slavers.mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item DIALOG_ACTION (#-Dialogue (#).mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item DIALOG_ACTION (#-Dialogue.mod) modified by CrunkTweakCompilation does not exist
+      3  [warning] [Mods] Item DIALOG_ACTION# (#-Dialogue.mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item DIALOGUE_LINE (#-rebirth.mod) modified by Universal Wasteland Expansion does not exist
+      3  [warning] [Mods] Item Waystation (#-Kenshi Aftermath - Base.mod) modified by MysteriousWanderer does not exist
+      2  [error] @放浪 ニンゲン: no faction for homeless squad
+      2  [warning] [Mods] Item DIALOG_ACTION (#-__additions.mod) modified by Universal Wasteland Expansion does not exist
+      2  [warning] [Mods] Item DIALOG_ACTION (#-__october #.mod) modified by Universal Wasteland Expansion does not exist
+      2  [warning] [Mods] Item DIALOGUE_LINE (#-__November#.mod) modified by Universal Wasteland Expansion does not exist
+      2  [warning] [Mods] Item DIALOGUE_LINE (#-rebirth.mod) modified by fr_FR.translation does not exist
+      2  [warning] [Mods] Item DIALOGUE_LINE# (#-Dialogue.mod) modified by Universal Wasteland Expansion does not exist
+      2  [warning] [Mods] Item ErrolTEST# (#-HeatCoilCleaver.mod) modified by RemoveTestStart - LOWER does not exist
+      2  [error] Battle Surgeons: no faction for homeless squad
+      1  [warning] [Mods] Item _grievewraith test (#-Grievewraiths.mod) modified by RemoveTestStart - LOWER does not exist
+      1  [warning] [Mods] Item Amputation Table Test (#-Amputation Table.mod) modified by RemoveTestStart - LOWER does not exist
+      1  [warning] [Mods] Item Composite Runners (#-gamedata.base) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-__May # #.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-__November #.mod) modified by ExSlaverPlus does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-__SE world states.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-__world reactions W.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-gamedata.base) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-June #.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-Portuguese wordswaps.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOG_ACTION (#-rebirth.mod) modified by Trade While Disguised does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE (#-__May #.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE (#-__Mourn.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE (#-Dialogue (#).mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE (#-Escapes.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE (#-gamedata.base) modified by Kaizo does not exist
+      1  [warning] [Mods] Item DIALOGUE_LINE# (#-dialogue-#.mod) modified by Universal Wasteland Expansion does not exist
+      1  [warning] [Mods] Item Driftmetal Remnants Showcase V# (#-Driftmetal Remnants.mod) modified by RemoveTestStart - LOWER does not exist
+      1  [warning] [Mods] Item ErrolTEST (#-HeatCoilCleaver.mod) modified by RemoveTestStart - LOWER does not exist
+      1  [warning] [Mods] Item Model Emily (#-Re Race.mod) modified by Sleepe well does not exist
+      1  [warning] [Mods] Item Model ShenEn (#-Re Race.mod) modified by Sleepe well does not exist
+      1  [warning] [Mods] Item Siffleur (#-rebirth.mod) modified by fr_FR.translation does not exist
+      1  [warning] [Mods] Item Wanderer copy (#-CBT Surgical Med Bay.mod) modified by RemoveTestStart - LOWER does not exist
+      1  [error] [preprocessSkeleton] Failed to load skeleton file: Hive_Princess.skeleton
+      1  [warning] [ResourceLoader::SetMeshData] Mesh Haircut_Female#.mesh has multiple uv sets.
+      1  [error] Alistair: no faction for homeless squad
+      1  [error] HolyNation(recruitmod) has no squads
+      1  [error] Mysterious Tower has no faction
+      1  [error] Poisonous Lab has no faction
+      1  [error] Strange Den has no faction
+      1  [error] V-One Squad [recruitable]: no faction for homeless squad
+
+== Mods qui modifient des objets inexistants ==
+    218  Universal Wasteland Expansion
+      9  Social lives (United Cities) ENG
+      7  Kaizo
+      7  RemoveTestStart - LOWER
+      6  cats clothing overhaul
+      4  Social lives (Hive) ENG
+      3  CrunkTweakCompilation
+      3  fr_FR.translation
+      3  MysteriousWanderer
+      2  Sleepe well
+      1  ExSlaverPlus
+      1  Trade While Disguised

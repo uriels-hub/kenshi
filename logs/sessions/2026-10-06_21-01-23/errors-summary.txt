@@ -1,0 +1,69 @@
+Journal : %USERPROFILE%\Documents\kenshi\logs\sessions\2026-10-06_21-01-23\kenshi_info.log
+Mods chargés : 0
+Mods chargés hors liste du dépôt : 0
+Mods du pack non chargés : 677
+  More Combat Stance MIA+.mod
+  Animation - Collection Pack.mod
+  RemoveTestStart - UPPER.mod
+  [1]----------[UI, Graphics, Performance]----------.mod
+  [1.1]--------------------(UI).mod
+  Kenshi Community Loading Screens.mod
+  Kenshi_rewritten.mod
+  FlavorText+.mod
+  Islands Inkarnate Map Regions.mod
+  FSM.mod
+  FSM (Little Edition).mod
+  Vital-Sense.mod
+  Organize-the-Crafting-Stations.mod
+  Search bar.mod
+  Hidden-Faction-Relations.mod
+  Longer Creature Distance.mod
+  kep-devtools.mod
+  KillCounter.mod
+  PersistentPrisoners.mod
+  Character Edit Tweaks.mod
+  Return to Main Menu.mod
+  [1.2]--------------------(Graphics).mod
+  Dust.mod
+  Terrain Fog Overhaul.mod
+  Heightmap Fix.mod
+  Better Night Sky and Planet Textures.mod
+  [Restored Cut Content] Twisters of Fire.mod
+  Dangerous Hazards.mod
+  Vain revert patch.mod
+  gasraincustom.mod
+  KS-DeadlandsVibeMerge.mod
+  MoodLighting.mod
+  MoodShadows.mod
+  MoodWeather.mod
+  MoodWaves.mod
+  ArmOfOkranClouds.mod
+  DeadlandsClouds.mod
+  Volcano Replacement.mod
+  VC Shadow Fix.mod
+  VC Alpha Fix.mod
+  [1.3]--------------------(Performance).mod
+  Compressed Textures Project.mod
+  Unofficial Patches for Kenshi.mod
+  Unofficial Patches for Kenshi - No Stone Camp Trader's Patch.mod
+  UPK No Swamp Distant Towns.mod
+  UPK Thief Fences Buy Hashish.mod
+  CrunkTweakCompilation.mod
+  FASTR.mod
+  KPM_LEM.mod
+  KenshiExtensionPlugin.mod
+  AttachmentOptimization.mod
+  [1.4]--------------------(Dialogues).mod
+  AgnuGenderFix.mod
+  Bodyguard Finish Dialogue Fix.mod
+  Errorcode Player Dialogue.mod
+  Errorcodes Play Nice.mod
+  The Forgotten Ones.mod
+  Personalities EXPANDED.mod
+  Let's Talk.mod
+  Talkative Kenshi.mod
+Erreurs : 0 ; avertissements : 0 (dont 0 'Part map', cosmétiques)
+
+== Messages hors Part map, par fréquence (nombres remplacés par #) ==
+
+== Mods qui modifient des objets inexistants ==
